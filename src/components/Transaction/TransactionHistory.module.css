@@ -1,0 +1,32 @@
+.transactionHistory {
+    margin: 20px 0;
+    padding: 0px;
+    width: 600px;
+    border-collapse: separate;
+  -webkit-box-shadow: 0 1px 1px 1px #bdbcbc;
+  background-color: rgb(238, 238, 238);
+ 
+}
+
+.thead {
+    font-size: 10px;
+    text-transform: uppercase;
+    padding: 0px;
+    background-color: rgb(110, 203, 226);
+    color: #ffffff;
+    }
+.thead th {
+    padding: 10px;
+    width: calc(33.3333%);
+}
+
+
+td {
+    text-align: center;
+    font-size: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-transform: capitalize;
+    color: rgb(114, 114, 114);
+    background-color: rgb(245, 245, 245);
+}
